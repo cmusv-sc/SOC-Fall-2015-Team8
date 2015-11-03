@@ -4,7 +4,7 @@
 		module="apachecmda_frontend_2.10"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20150904163343"
+		publication="20151103050237"
 	>
 		<description>
 		ApacheCMDA_Frontend
